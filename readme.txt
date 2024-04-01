@@ -1,1 +1,2 @@
-https://github.com/SouravSiku/WevDevTask-SouravDash.github.io
+resume
+https://souravsiku.github.io/WevDevTask-SouravDash.github.io/
